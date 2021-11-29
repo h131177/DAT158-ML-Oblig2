@@ -8,9 +8,11 @@ Link: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/ho
 
 ## Model deployment
 
-app.py: The streamlit-application
+### app.py: 
+The streamlit-application
 
-ML_Oblig2-streamlit-app.ipynb:  The code for creating a streamlit-app
+### ML_Oblig2-streamlit-app.ipynb:  
+The code for creating a streamlit-app
 
-Video:
+### Video:
 streamlit-app-2021-11-29-00-11-40.webm
